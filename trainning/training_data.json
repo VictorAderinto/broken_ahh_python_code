@@ -1,0 +1,241 @@
+{
+    "interview_questions_sample_data": [
+      {
+        "question": "What is the main purpose of your application? (e.g., work permit as principal applicant, spouse/partner, or dependent child)",
+        "sample_answer": "Work permit as principal applicant"
+      },
+      {
+        "question": "What is your full legal name as shown on your passport?",
+        "sample_answer": "Ayomipo Jesse Oduntan"
+      },
+      {
+        "question": "What is your date of birth?",
+        "sample_answer": "01/01/1995"
+      },
+      {
+        "question": "What is your country of birth?",
+        "sample_answer": "I was born in Nigeria"
+      },
+      {
+        "question": "What is your current nationality?",
+        "sample_answer": "I am a Nigerian citizen"
+      },
+      {
+        "question": "What is your current address?",
+        "sample_answer": "123 Main Street, Apartment 4B, Lagos, Nigeria, 100001"
+      },
+      {
+        "question": "What is your email address?",
+        "sample_answer": "ayomipo.oduntan@email.com"
+      },
+      {
+        "question": "What is your telephone number?",
+        "sample_answer": "+234 701 234 5678"
+      },
+      {
+        "question": "What is your passport number and its expiry date?",
+        "sample_answer": "A12345678"
+      },
+      {
+        "question": "What is your passports expiry date?",
+        "sample_answer": "15/03/2029"
+      },
+      {
+        "question": "Have you ever been issued a Canadian Unique Client Identifier (UCI) number?",
+        "sample_answer": "No"
+      },
+      {
+        "question": "If yes, please provide your UCI number.",
+        "sample_answer": "12345-67890"
+      },
+      {
+        "question": "What type of work permit are you applying for? (e.g., employer-specific, open work permit, post-graduation, etc.)",
+        "sample_answer": "Employer-specific work permit under the Temporary Foreign Worker Program"
+      },
+      {
+        "question": "What is the name of your Canadian employer (if applicable)?",
+        "sample_answer": "Maple Tech Solutions Inc."
+      },
+      {
+        "question": "What is the address of your Canadian employer (if applicable)?",
+        "sample_answer": "456 Innovation Drive, Suite 300, Toronto, Ontario, M5V 2H1, Canada"
+      },
+      {
+        "question": "What is your job title (if known)?",
+        "sample_answer": "Senior Software Developer"
+      },
+      {
+        "question": "What is your jobs National Occupational Classification (NOC) code (if known)?",
+        "sample_answer": "NOC code 21231"
+      },
+      {
+        "question": "What is the expected start date of your employment in Canada?",
+        "sample_answer": "01/09/2025"
+      },
+      {
+        "question": "What is the expected end date of your employment in Canada?",
+        "sample_answer": "31/08/2027"
+      },
+      {
+        "question": "What is your annual salary (if applicable)?",
+        "sample_answer": "CAD 95,000 annually"
+      },
+      {
+        "question": "What is your list of benefits (if applicable)?",
+        "sample_answer": "Health insurance, dental plan, and 3 weeks paid vacation"
+      },
+      {
+        "question": "Do you have a Labour Market Impact Assessment (LMIA) number for your job offer?",
+        "sample_answer": "Yes"
+      },
+      {
+        "question": "If yes, please provide the LMIA number.",
+        "sample_answer": "LMIA-2025-123456"
+      },
+      {
+        "question": "Have you worked in Canada within the last 12 months?",
+        "sample_answer": "No"
+      },
+      {
+        "question": "If yes, please provide your previous Canadian employer's details.",
+        "sample_answer": "Cantech Systems, 789 Technology Boulevard, Vancouver, BC, V6B 4Y8, Canada. I worked there as a Software Developer from March 2024 to December 2024."
+      },
+      {
+        "question": "What is your current occupation and employer (if different from your Canadian job offer)?",
+        "sample_answer": "I am currently working as a Software Developer at Digital Innovations Nigeria Ltd in Lagos, Nigeria"
+      },
+      {
+        "question": "Have you ever been refused a visa or permit to Canada or any other country?",
+        "sample_answer": "No"
+      },
+      {
+        "question": "If yes, please explain.",
+        "sample_answer": "I was refused a tourist visa to the United States in 2022 due to insufficient proof of ties to my home country."
+      },
+      {
+        "question": "Have you ever been convicted of a crime or offense in any country?",
+        "sample_answer": "No"
+      },
+      {
+        "question": "If yes, please explain.",
+        "sample_answer": "I received a misdemeanor conviction for a traffic violation in 2020, which resulted in a fine of $200 and no jail time."
+      },
+      {
+        "question": "Do you have any serious medical conditions?",
+        "sample_answer": "No"
+      },
+      {
+        "question": "If yes, please specify.",
+        "sample_answer": "I have Type 1 diabetes which is well-managed with medication."
+      },
+      {
+        "question": "Will any family members accompany you to Canada?",
+        "sample_answer": "Yes"
+      },
+      {
+        "question": "If yes, please answer the following for each accompanying family member: Full name, Relationship to you, Date of birth, Passport number, Country of birth, Current occupation, Will they accompany you to Canada?",
+        "sample_answer": "Full name: Oluwaseun Oduntan, Relationship: Spouse, Date of birth: 15/05/1996, Passport number: B98765432, Country of birth: Nigeria, Current occupation: Pharmacist, Will accompany to Canada: Yes"
+      },
+      {
+        "question": "What is your marital status? (Single, Married, Common-law, Widowed, Divorced, Separated)",
+        "sample_answer": "Married"
+      },
+      {
+        "question": "Do you have a spouse or common-law partner?",
+        "sample_answer": "Yes"
+      },
+      {
+        "question": "If yes, please provide: Full name, Date of birth, Country of birth, Current occupation",
+        "sample_answer": "Full name: Oluwaseun Oduntan, Date of birth: 15/05/1996, Country of birth: Nigeria, Current occupation: Pharmacist"
+      },
+      {
+        "question": "Do you have any children (natural, adopted, or step-children)?",
+        "sample_answer": "Yes"
+      },
+      {
+        "question": "If yes, please provide for each child: Full name, Date of birth, Country of birth, Current occupation, Will they accompany you to Canada?",
+        "sample_answer": "Full name: Adebayo Oduntan, Date of birth: 10/08/2020, Country of birth: Nigeria, Current occupation: Student, Will accompany to Canada: Yes"
+      },
+      {
+        "question": "Do you have any brothers or sisters (including half/step siblings)?",
+        "sample_answer": "Yes"
+      },
+      {
+        "question": "If yes, please provide for each sibling: Full name, Date of birth, Country of birth, Current occupation",
+        "sample_answer": "Full name: Tunde Oduntan, Date of birth: 23/11/1990, Country of birth: Nigeria, Current occupation: Civil Engineer"
+      },
+      {
+        "question": "Are you appointing an immigration representative to act on your behalf?",
+        "sample_answer": "No"
+      },
+      {
+        "question": "If yes, please provide: Representative's full name, Membership ID, Type of representative, Name of firm or organization, Representative's contact information",
+        "sample_answer": "Representative's full name: Sarah Johnson, Membership ID: R123456, Type of representative: Regulated Canadian Immigration Consultant (RCIC), Name of firm: Canadian Immigration Solutions Ltd., Contact information: 123 Immigration Street, Toronto, Ontario, M5H 2N2, Canada, 416-555-7890, sarah.johnson@cis.com"
+      },
+      {
+        "question": "Do you authorize your representative to receive information about your application and your dependent children under 18 years of age?",
+        "sample_answer": "Yes"
+      },
+      {
+        "question": "Have you read and understood all the questions and information provided in this application?",
+        "sample_answer": "Yes"
+      },
+      {
+        "question": "Do you certify that all the information you have provided is complete, accurate, and truthful?",
+        "sample_answer": "Yes"
+      }
+    ],
+    "correction_examples": [
+      {
+        "user_input": "Sorry, my date of birth is actually 01/01/1995",
+        "field_to_correct": "date of birth",
+        "correct_response": "I've updated your date of birth to '01/01/1995'. What is your country of birth and your current nationality?"
+      },
+      {
+        "user_input": "Actually, my name is Ayomipo Jesse Oduntan",
+        "field_to_correct": "full legal name",
+        "correct_response": "I've updated your full legal name to 'Ayomipo Jesse Oduntan'. Let's continue with the current question."
+      },
+      {
+        "user_input": "I need to change my email address to ayomipo.jesse@gmail.com",
+        "field_to_correct": "email address",
+        "correct_response": "I've updated your email address to 'ayomipo.jesse@gmail.com'. Let's continue with the current question."
+      },
+      {
+        "user_input": "I made a mistake. My passport expires on 20/05/2028",
+        "field_to_correct": "passport expiry date",
+        "correct_response": "I've updated your passport expiry date to '20/05/2028'. Let's continue with the current question."
+      },
+      {
+        "user_input": "show info",
+        "field_to_correct": null,
+        "correct_response": "Here's what you've provided so far: [displays all answers]"
+      }
+    ],
+    "validation_examples": {
+      "date_formats": {
+        "valid": ["01/01/1995", "1995-01-01", "15/06/2000", "2000-06-15"],
+        "invalid": ["01-01-1995", "1995/01/01", "January 1, 1995", "01.01.1995"]
+      },
+      "email_formats": {
+        "valid": ["name@example.com", "first.last@domain.co.uk", "name+123@gmail.com"],
+        "invalid": ["name@", "@example.com", "name@example", "name.example.com"]
+      },
+      "yes_no_formats": {
+        "valid": ["Yes", "No", "yes", "no"],
+        "invalid": ["Y", "N", "Yep", "Nope", "Sure", "Nah"]
+      }
+    },
+    "conditional_questions": [
+      {
+        "parent_question": "Have you ever been issued a Canadian Unique Client Identifier (UCI) number?",
+        "child_question": "If yes, please provide your UCI number.",
+        "condition": "answered 'Yes' to parent question"
+      },
+      {
+        "parent_question": "Do you have a Labour Market Impact Assessment (LMIA) number for your job offer?",
+        "child_question": "If yes, please provide the LMIA number.",
+        "condition": "answered 'Yes' to parent question"
+      }
+    ]
+  }

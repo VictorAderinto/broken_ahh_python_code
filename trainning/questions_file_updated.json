@@ -1,0 +1,1267 @@
+[
+  {
+    "position": 0,
+    "field": "check_eligibility",
+    "text": "Do you meet the eligibility requirements to apply for a Study Permit? (Yes/No)"
+  },
+  {
+    "position": 1,
+    "field": "given_name",
+    "text": "What are your given names as shown on your passport?"
+  },
+  {
+    "position": 2,
+    "field": "family_name",
+    "text": "What is your family name as shown on your passport?"
+  },
+  {
+    "position": 3,
+    "field": "other_names",
+    "text": "Have you ever used any other names (Yes/No)?"
+  },
+  {
+    "position": 4,
+    "field": "other_given_name_used",
+    "text": "What are the other given name(s) used?"
+  },
+  {
+    "position": 5,
+    "field": "other_family_name_used",
+    "text": "What is the other family name(s) used?"
+  },
+  {
+    "position": 6,
+    "field": "sex",
+    "text": "What is your sex as listed on your official documents? (Female, Male, Another Gender)"
+  },
+  {
+    "position": 7,
+    "field": "date_of_birth",
+    "text": "What is your date of birth? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 8,
+    "field": "place_of_birth_city",
+    "text": "What city or town were you born in?"
+  },
+  {
+    "position": 9,
+    "field": "place_of_birth_country",
+    "text": "What country or territory were you born in?"
+  },
+  {
+    "position": 10,
+    "field": "citizenship_country",
+    "text": "What is your country of citizenship?"
+  },
+  {
+    "position": 11,
+    "field": "residence_country",
+    "text": "What is your current country or territory of residence?"
+  },
+  {
+    "position": 12,
+    "field": "residence_status",
+    "text": "What is your current status in that country or territory (e.g., Citizen, Permanent resident, Visitor, Worker, Student, Other, Protected person, Refugee claimant)?"
+  },
+  {
+    "position": 13,
+    "field": "residence_status_start_date",
+    "text": "From what date have you held this status in your current country or territory of residence? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 14,
+    "field": "residence_status_end_date",
+    "text": "Until what date is your current status in that country or territory valid? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 15,
+    "field": "resided_other_countries",
+    "text": "Have you resided in any other country within the past 5 years? (yes/no)"
+  },
+  {
+    "position": 16,
+    "field": "other_residence_country",
+    "text": "What is the other country or territory you resided in?"
+  },
+  {
+    "position": 17,
+    "field": "other_residence_status",
+    "text": "What was your status in that country or territory (e.g., Citizen, Permanent resident, Visitor, Worker, Student, Other)?"
+  },
+  {
+    "position": 18,
+    "field": "other_residence_start_date",
+    "text": "From what date did you reside in this country or territory? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 19,
+    "field": "other_residence_end_date",
+    "text": "Until what date did you reside in this country or territory? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 20,
+    "field": "resided_other_countries_2",
+    "text": "Have you resided in any other country within the past 5 years, apart from the one already mentioned? (yes/no)"
+  },
+  {
+    "position": 21,
+    "field": "other_residence_country_2",
+    "text": "What is the other country or territory you resided in?"
+  },
+  {
+    "position": 22,
+    "field": "other_residence_status_2",
+    "text": "What was your status in that country or territory (e.g., Citizen, Permanent resident, Visitor, Worker, Student, Other)?"
+  },
+  {
+    "position": 23,
+    "field": "other_residence_start_date_2",
+    "text": "From what date did you reside in this country or territory? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 24,
+    "field": "other_residence_end_date_2",
+    "text": "Until what date did you reside in this country or territory? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 25,
+    "field": "country_applying_from_same",
+    "text": "Are you applying from the same country or territory as your current country of residence? (yes/no)"
+  },
+  {
+    "position": 26,
+    "field": "country_applying_from",
+    "text": "What is the country or territory you are applying from?"
+  },
+  {
+    "position": 27,
+    "field": "status_country_applying_from",
+    "text": "What is your status in the country or territory you are applying from?"
+  },
+  {
+    "position": 28,
+    "field": "current_country_start_date",
+    "text": "From what date did you reside in the country or territory you're applying from? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 29,
+    "field": "current_country_end_date",
+    "text": "Until what date did you reside in the country or territory you're applying from? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 30,
+    "field": "marital_status",
+    "text": "What is your current marital status? (e.g., Widowed, Married, Single, Unknown, Separated, Common-law, Annulled marriage, Divorced)"
+  },
+  {
+    "position": 31,
+    "field": "relationship_start_date",
+    "text": "If married or in a common-law relationship, what is the date you entered the relationship? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 32,
+    "field": "partner_given_name",
+    "text": "If married or in a common-law relationship, what is the given name of your spouse or common-law partner?"
+  },
+  {
+    "position": 33,
+    "field": "partner_family_name",
+    "text": "What is the family name of your spouse or common-law parter?"
+  },
+  {
+    "position": 34,
+    "field": "partner_dob",
+    "text": "What is your spouse/common-law/conjugal partner's date of birth? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 35,
+    "field": "partner_birth_country",
+    "text": "What is their country or territory of birth?"
+  },
+  {
+    "position": 36,
+    "field": "partner_present_address",
+    "text": "What is their present address? (If deceased, provide city/town, country/territory, and date)"
+  },
+  {
+    "position": 37,
+    "field": "partner_marital_status",
+    "text": "What is their marital status?"
+  },
+  {
+    "position": 38,
+    "field": "partner_email",
+    "text": "What is their email address?"
+  },
+  {
+    "position": 39,
+    "field": "joint_residence_agreement",
+    "text": "Have the declarants jointly signed a residential lease, mortgage, or purchase agreement? (yes/no)"
+  },
+  {
+    "position": 40,
+    "field": "joint_property_ownership",
+    "text": "Do the declarants jointly own property other than their residence? (yes/no)"
+  },
+  {
+    "position": 41,
+    "field": "joint_accounts",
+    "text": "Do the declarants have joint bank, trust, credit union, or charge card accounts? (yes/no)"
+  },
+  {
+    "position": 42,
+    "field": "declared_union_income_tax",
+    "text": "Have the declarants declared their common-law union under the Canadian Income Tax Act? (yes/no)"
+  },
+  {
+    "position": 43,
+    "field": "declarant_life_insurance_partner_beneficiary",
+    "text": "Does the declarant have life insurance naming their partner as the beneficiary? (yes/no)"
+  },
+  {
+    "position": 44,
+    "field": "partner_life_insurance_declarant_beneficiary",
+    "text": "Does the declarant's partner have life insurance naming the declarant as the beneficiary? (yes/no)"
+  },
+  {
+    "position": 45,
+    "field": "other_documentary_evidence",
+    "text": "What other documentary evidence do the declarants have to support their common-law relationship?"
+  },
+  {
+    "position": 46,
+    "field": "previous_relationship",
+    "text": "Have you previously been married or in a common-law relationship? (yes/no)"
+  },
+  {
+    "position": 47,
+    "field": "previous_partner_given_name",
+    "text": "What is the given name of your previous spouse or common-law partner?"
+  },
+  {
+    "position": 48,
+    "field": "previous_partner_family_name",
+    "text": "What is the country or territory of birth of your previous spouse or common-law partner?"
+  },
+  {
+    "position": 49,
+    "field": "previous_partner_dob",
+    "text": "What is the date of birth of your previous spouse or common-law partner? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 50,
+    "field": "previous_relationship_type",
+    "text": "Was this a marriage or common-law relationship? (married/common-law)"
+  },
+  {
+    "position": 51,
+    "field": "previous_relationship_start_date",
+    "text": "What was the start date of your previous relationship? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 52,
+    "field": "previous_relationship_end_date",
+    "text": "What was the end date of your previous relationship? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 53,
+    "field": "native_language",
+    "text": "What is your native language or mother tongue?"
+  },
+  {
+    "position": 54,
+    "field": "english_french_communication",
+    "text": "Are you able to communicate in English or French? (yes/no)"
+  },
+  {
+    "position": 55,
+    "field": "language_ease",
+    "text": "In which language are you most at ease?"
+  },
+  {
+    "position": 56,
+    "field": "language_testing",
+    "text": "Have you taken a test from a designated testing agency to assess your proficiency in English or French? (yes/no)"
+  },
+  {
+    "position": 57,
+    "field": "passport_number",
+    "text": "What is your passport number?"
+  },
+  {
+    "position": 58,
+    "field": "passport_issue_country",
+    "text": "What is your passport's country of issue?"
+  },
+  {
+    "position": 59,
+    "field": "passport_issue_date",
+    "text": "What is your passport issue date? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 60,
+    "field": "passport_expiry_date",
+    "text": "What is your passport's expiry date? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 61,
+    "field": "uci_issued",
+    "text": "Have you ever been issued a Canadian Unique Client Identifier number? (yes/no)"
+  },
+  {
+    "position": 62,
+    "field": "uci_number",
+    "text": "Please provide your UCI number by typing it below."
+  },
+  {
+    "position": 63,
+    "field": "taiwan_passport",
+    "text": "For this trip, will you use a passport issued by the Ministry of Foreign Affairs in Taiwan that includes your personal identification number? (yes/no)"
+  },
+  {
+    "position": 64,
+    "field": "isreali_passport",
+    "text": "For this trip, will you use a National Isreali passport? (yes/no)"
+  },
+  {
+    "position": 65,
+    "field": "nin_document",
+    "text": "Do you have a national identity document? (Yes/No)"
+  },
+  {
+    "position": 66,
+    "field": "national_id_document_number",
+    "text": "What is the document number of your national identity document?"
+  },
+  {
+    "position": 67,
+    "field": "national_id_issuing_country",
+    "text": "What country or territory issued your national identity document?"
+  },
+  {
+    "position": 68,
+    "field": "national_id_issue_date",
+    "text": "What is the issue date of your national identity document? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 69,
+    "field": "national_id_expiry_date",
+    "text": "What is the expiry date of your national identity document? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 70,
+    "field": "us_permanent_resident",
+    "text": "Are you a lawful permanent resident of the United States? (yes/no)"
+  },
+  {
+    "position": 71,
+    "field": "uscis_number",
+    "text": "What is your U.S. Citizenship and Immigration Services number?"
+  },
+  {
+    "position": 72,
+    "field": "uscis_expiry_date",
+    "text": "What is the expiry date of your U.S. permanent resident status? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 73,
+    "field": "mailing_address",
+    "text": "What is your current mailing address? Please include applicable: P.O. box, Apt/Unit, Street no, Street name, City/Town, Country or Territory, Province/State or District, Postal Code"
+  },
+  {
+    "position": 74,
+    "field": "mailing_address_same",
+    "text": "Is the mailing address the same residential address?"
+  },
+  {
+    "position": 75,
+    "field": "residential_address",
+    "text": "What is your current residential address? Please include applicable: P.O. box, Apt/Unit, Street no, Street name, City/Town, Country or Territory, Province/State or District, Postal Code"
+  },
+  {
+    "position": 76,
+    "field": "has_primary_phone",
+    "text": "Do you have a Canada/US telephone number? (yes/no)"
+  },
+  {
+    "position": 77,
+    "field": "primary_phone_type",
+    "text": "What is the type of your primary phone number? (Residence, Cellular, Business)"
+  },
+  {
+    "position": 78,
+    "field": "primary_phone_country_code",
+    "text": "What is the country code of your primary phone number?"
+  },
+  {
+    "position": 79,
+    "field": "primary_phone_number",
+    "text": "What is your primary phone number?"
+  },
+  {
+    "position": 80,
+    "field": "primary_phone_extension",
+    "text": "Do you have an extension for your primary phone number? (yes/no)"
+  },
+  {
+    "position": 81,
+    "field": "has_alternate_phone",
+    "text": "Do you have an alternate telephone number? (yes/no)"
+  },
+  {
+    "position": 82,
+    "field": "alternate_phone_country",
+    "text": "Is you alternate phone number a Canada/US number? (yes/no)"
+  },
+  {
+    "position": 83,
+    "field": "alternate_phone_type",
+    "text": "What is the type of your alternate phone number? (Residence, Cellular, Business)"
+  },
+  {
+    "position": 84,
+    "field": "alternate_phone_country_code",
+    "text": "What is the country code of your alternate phone number?"
+  },
+  {
+    "position": 85,
+    "field": "alternate_phone_number",
+    "text": "What is your alternate phone number?"
+  },
+  {
+    "position": 86,
+    "field": "alternate_phone_extension",
+    "text": "Do you have an extension for your alternate phone number? If so, please provide it."
+  },
+  {
+    "position": 87,
+    "field": "has_fax_number",
+    "text": "Do you have a fax number? (yes/no)"
+  },
+  {
+    "position": 88,
+    "field": "fax_is_canada_us",
+    "text": "Is your fax number a Canada/US number? (yes/no)"
+  },
+  {
+    "position": 89,
+    "field": "fax_country_code",
+    "text": "What is the country code of your fax number?"
+  },
+  {
+    "position": 90,
+    "field": "fax_number",
+    "text": "What is your fax number?"
+  },
+  {
+    "position": 91,
+    "field": "fax_extension",
+    "text": "Do you have an extension for your fax number? If so, please provide it."
+  },
+  {
+    "position": 92,
+    "field": "email",
+    "text": "What is your email address?"
+  },
+  {
+    "position": 93,
+    "field": "school_name",
+    "text": "What is the name of the school you have been accepted to study at?"
+  },
+  {
+    "position": 94,
+    "field": "school_city",
+    "text": "What city is the the school you have been accepted to study at located in?"
+  },
+  {
+    "position": 95,
+    "field": "school_address",
+    "text": "What is the address of the school you have been accepted to study at? Please include applicable City, Province, Street Details and Postal Code."
+  },
+  {
+    "position": 96,
+    "field": "school_dli#",
+    "text": "What is the designated learning institution number of the school you've been accepted into?"
+  },
+  {
+    "position": 97,
+    "field": "level_of_study",
+    "text": "What is your level of study? (e.g., Secondary, Bachelor's, Master's, Doctorate, Other)"
+  },
+  {
+    "position": 98,
+    "field": "field_of_study",
+    "text": "What is your field of study?"
+  },
+  {
+    "position": 99,
+    "field": "student_id",
+    "text": "What is your student ID number? If you don't have one yet, leave it blank by hitting enter."
+  },
+  {
+    "position": 100,
+    "field": "study_start_date",
+    "text": "What is the expected start date of your study program? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 101,
+    "field": "study_end_date",
+    "text": "What is the expected end date of your study program? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 102,
+    "field": "cost_tuition",
+    "text": "What is the cost of tuition for your program? Please convert to CAD"
+  },
+  {
+    "position": 103,
+    "field": "cost_room_board",
+    "text": "What is the estimated cost of room and board? Please convert to CAD"
+  },
+  {
+    "position": 104,
+    "field": "cost_other",
+    "text": "What are the estimated other costs? For example: Books, supplies, transportation, etc. Please convert to CAD"
+  },
+  {
+    "position": 105,
+    "field": "funds_available",
+    "text": "What amount of funds do you have available for your stay in Canada? Please convert to CAD"
+  },
+  {
+    "position": 106,
+    "field": "expenses_paid_by",
+    "text": "Who will be paying for your expenses? (e.g., Self, Parent/Guardian, Sponsor, Government, Scholarship, Other)"
+  },
+  {
+    "position": 107,
+    "field": "minor_status",
+    "text": "Will you be a minor by the time of application submission? (Yes/No)"
+  },
+  {
+    "position": 108,
+    "field": "address_in_candada",
+    "text": "Provide the address you will reside in Canada. Please include applicable: P.O. box, Apt/Unit, Street no, Street name, City/Town, Country or Territory, Province/State or District, Postal Code"
+  },
+  {
+    "position": 109,
+    "field": "has_provincial_attestation",
+    "text": "Have you been issued a provincial attestation number? (yes/no)"
+  },
+  {
+    "position": 110,
+    "field": "provincial_attestation_number",
+    "text": "If yes, what is the provincial attestation document number?"
+  },
+  {
+    "position": 111,
+    "field": "provincial_attestation_expiry_date",
+    "text": "What is the expiry date of your provincial attestation? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 112,
+    "field": "has_caq",
+    "text": "Have you been issued a Quebec Acceptance Certificate? (yes/no)"
+  },
+  {
+    "position": 113,
+    "field": "caq_number",
+    "text": "If yes, what is your CAQ certificate number?"
+  },
+  {
+    "position": 114,
+    "field": "caq_expiry_date",
+    "text": "What is the expiry date of your CAQ? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 115,
+    "field": "has_post_secondary_education",
+    "text": "Have you had any post-secondary education? (yes/no) \n For example: College, University, Vocational, etc."
+  },
+  {
+    "position": 116,
+    "field": "post_secondary_start_date",
+    "text": "What was the start date of your post-secondary education? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 117,
+    "field": "post_secondary_end_date",
+    "text": "What was the end date of your post-secondary education? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 118,
+    "field": "post_secondary_field_of_study",
+    "text": "What was your field of study?"
+  },
+  {
+    "position": 119,
+    "field": "post_secondary_level_of_study",
+    "text": "What was your level of study? (e.g., Diploma, Bachelor's, Master's, Doctorate, Vocational, Other)"
+  },
+  {
+    "position": 120,
+    "field": "post_secondary_school_name",
+    "text": "What is the name of the school or facility where you studied?"
+  },
+  {
+    "position": 121,
+    "field": "post_secondary_city",
+    "text": "In which city or town was the school located?"
+  },
+  {
+    "position": 122,
+    "field": "post_secondary_province_state",
+    "text": "In which province or state was the school located?"
+  },
+  {
+    "position": 123,
+    "field": "post_secondary_country",
+    "text": "In which country or territory was the school located?"
+  },
+  {
+    "position": 124,
+    "field": "employment_start_date",
+    "text": "What is the start date of your current or most recent employment or activity? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 125,
+    "field": "employment_end_date",
+    "text": "What is the end date of your employment or activity? If ongoing, leave blank or indicate as 'present'. (Format: YYYY-MM-DD or 'present')"
+  },
+  {
+    "position": 126,
+    "field": "occupation",
+    "text": "What is your current activity or occupation?"
+  },
+  {
+    "position": 127,
+    "field": "employer_name",
+    "text": "What is the name of your company or employer?"
+  },
+  {
+    "position": 128,
+    "field": "employment_city",
+    "text": "In which city or town is your company or place of activity located?"
+  },
+  {
+    "position": 129,
+    "field": "employment_province_state",
+    "text": "In which province or state is it located?"
+  },
+  {
+    "position": 130,
+    "field": "employment_country",
+    "text": "In which country or territory is it located?"
+  },
+  {
+    "position": 131,
+    "field": "employment_job_description",
+    "text": "What were your activities, duties, or responsibilities during this employment?"
+  },
+  {
+    "position": 132,
+    "field": "employment_other",
+    "text": "Have you had any other employment in the past 10 years, other than the one already mentioned?"
+  },
+  {
+    "position": 133,
+    "field": "employment_start_date_2",
+    "text": "What is the start date of your current or most recent employment or activity? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 134,
+    "field": "employment_end_date_2",
+    "text": "What is the end date of your employment or activity? If ongoing, leave blank or indicate as 'present'. (Format: YYYY-MM-DD or 'present')"
+  },
+  {
+    "position": 135,
+    "field": "occupation_2",
+    "text": "What is your current activity or occupation?"
+  },
+  {
+    "position": 136,
+    "field": "employer_name_2",
+    "text": "What is the name of your company or employer?"
+  },
+  {
+    "position": 137,
+    "field": "employment_city_2",
+    "text": "In which city or town is your company or place of activity located?"
+  },
+  {
+    "position": 138,
+    "field": "employment_province_state_2",
+    "text": "In which province or state is it located?"
+  },
+  {
+    "position": 139,
+    "field": "employment_country_2",
+    "text": "In which country or territory is it located?"
+  },
+  {
+    "position": 140,
+    "field": "employment_job_description_2",
+    "text": "What were your activities, duties, or responsibilities during this employment?"
+  },
+  {
+    "position": 141,
+    "field": "employment_other_2",
+    "text": "Have you had any other employment in the past 10 years, other than the one already mentioned?"
+  },
+  {
+    "position": 142,
+    "field": "employment_start_date_3",
+    "text": "What is the start date of your current or most recent employment or activity? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 143,
+    "field": "employment_end_date_3",
+    "text": "What is the end date of your employment or activity? If ongoing, leave blank or indicate as 'present'. (Format: YYYY-MM-DD or 'present')"
+  },
+  {
+    "position": 144,
+    "field": "occupation_3",
+    "text": "What is your current activity or occupation?"
+  },
+  {
+    "position": 145,
+    "field": "employer_name_3",
+    "text": "What is the name of your company or employer?"
+  },
+  {
+    "position": 146,
+    "field": "employment_city_3",
+    "text": "In which city or town is your company or place of activity located?"
+  },
+  {
+    "position": 147,
+    "field": "employment_province_state_3",
+    "text": "In which province or state is it located?"
+  },
+  {
+    "position": 148,
+    "field": "employment_country_3",
+    "text": "In which country or territory is it located?"
+  },
+  {
+    "position": 149,
+    "field": "employment_job_description_3",
+    "text": "What were your activities, duties, or responsibilities during this employment?"
+  },
+  {
+    "position": 150,
+    "field": "tuberculosis_exposure",
+    "text": "Within the past two years, have you or a family member ever had tuberculosis or been in close contact with a person who has tuberculosis? (yes/no)"
+  },
+  {
+    "position": 151,
+    "field": "physical_or_mental_disorder",
+    "text": "Do you have a physical or mental disorder that would require social or health services, or medication? (yes/no)"
+  },
+  {
+    "position": 152,
+    "field": "health_condition_family_details",
+    "text": "If yes was answered to either of the previous two questions, please provide details of the affected family member, including name, relationship to you, and the condition or exposure."
+  },
+  {
+    "position": 153,
+    "field": "status_violation_canada",
+    "text": "Have you ever remained in Canada beyond the validity of your status, attended school without authorization, or worked without authorization? (yes/no)"
+  },
+  {
+    "position": 154,
+    "field": "visa_or_entry_refused",
+    "text": "Have you ever been refused a visa or permit, denied entry, or been ordered to leave Canada or any other country or territory? (yes/no)"
+  },
+  {
+    "position": 155,
+    "field": "previous_application_canada",
+    "text": "Have you previously applied to enter or remain in Canada? (yes/no)"
+  },
+  {
+    "position": 156,
+    "field": "immigration_history_details",
+    "text": "If you answered yes to any of the previous questions, please provide details, including dates, locations, and reasons or outcomes."
+  },
+  {
+    "position": 157,
+    "field": "criminal_history",
+    "text": "Have you ever committed, been arrested for, been charged with, or convicted of any criminal offence in any country or territory? (yes/no)"
+  },
+  {
+    "position": 158,
+    "field": "criminal_history_details",
+    "text": "If yes, please provide details including the nature of the offence, date, location, and outcome."
+  },
+  {
+    "position": 159,
+    "field": "military_or_security_service",
+    "text": "Have you ever served in any military, militia, civil defense unit, security organization, or police force? (yes/no)"
+  },
+  {
+    "position": 160,
+    "field": "military_service_start_date",
+    "text": "What is the start date (MM-YYYY) of the employment period?"
+  },
+  {
+    "position": 161,
+    "field": "military_service_end_date",
+    "text": "What is the end date (MM-YYYY) of the employment period?"
+  },
+  {
+    "position": 162,
+    "field": "name_of_police unit",
+    "text": "What is the name and address of the military or police unit where you were employed?"
+  },
+  {
+    "position": 163,
+    "field": "position_title_rank",
+    "text": "What was your position, title, or rank during miliaty or police service?"
+  },
+  {
+    "position": 164,
+    "field": "military_job_description",
+    "text": "What were your activities, duties, or responsibilities during this service?"
+  },
+  {
+    "position": 165,
+    "field": "association_with_violent_or_criminal_groups",
+    "text": "Are you, or have you ever been, a member of or associated with any political party, group, or organization that has engaged in or advocated violence to achieve a political or religious objective, or has been associated with criminal activity? (yes/no)"
+  },
+  {
+    "position": 166,
+    "field": "human_rights_violations",
+    "text": "Have you ever witnessed or participated in the ill-treatment of prisoners or civilians, looting, or the desecration of religious buildings? (yes/no)"
+  },
+  {
+    "position": 167,
+    "field": "consent_CIC_contact",
+    "text": "Do you consent to be contacted by CIC or an organization at CIC's request, in the future (Yes/No)?"
+  },
+  {
+    "position": 168,
+    "field": "parent1_family_name",
+    "text": "What is the family name of Parent 1?"
+  },
+  {
+    "position": 169,
+    "field": "parent1_given_names",
+    "text": "What are the given names of Parent 1?"
+  },
+  {
+    "position": 170,
+    "field": "parent1_dob",
+    "text": "What is the date of birth of Parent 1? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 171,
+    "field": "parent1_birth_country",
+    "text": "What is the country or territory of birth of Parent 1?"
+  },
+  {
+    "position": 172,
+    "field": "parent1_present_address",
+    "text": "What is the present address of Parent 1? If deceased, provide city/town, country/territory, and date before deceased"
+  },
+  {
+    "position": 173,
+    "field": "parent1_marital_status",
+    "text": "What is the marital status of Parent 1?"
+  },
+  {
+    "position": 174,
+    "field": "parent1_email",
+    "text": "What is the email address of Parent 1?"
+  },
+  {
+    "position": 175,
+    "field": "parent1_full_phone_number",
+    "text": "What is the phone number of Parent 1? Please include the country code, number and extension"
+  },
+  {
+    "position": 176,
+    "field": "parent2_family_name",
+    "text": "What is the family name of Parent 2?"
+  },
+  {
+    "position": 177,
+    "field": "parent2_given_names",
+    "text": "What are the given names of Parent 2?"
+  },
+  {
+    "position": 178,
+    "field": "parent2_dob",
+    "text": "What is the date of birth of Parent 2? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 179,
+    "field": "parent2_birth_country",
+    "text": "What is the country or territory of birth of Parent 2?"
+  },
+  {
+    "position": 180,
+    "field": "parent2_present_address",
+    "text": "What is the present address of Parent 2? If deceased, provide city/town, country/territory, and date before deceased"
+  },
+  {
+    "position": 181,
+    "field": "parent2_marital_status",
+    "text": "What is the marital status of Parent 2?"
+  },
+  {
+    "position": 182,
+    "field": "parent2_email",
+    "text": "What is the email address of Parent 2?"
+  },
+  {
+    "position": 183,
+    "field": "parent2_full_phone_number",
+    "text": "What is the phone number of Parent 2? Please include country code, number and extension"
+  },
+  {
+    "position": 184,
+    "field": "has_children",
+    "text": "Do you have any children? (yes/no) Please also include adopted and/or step-children"
+  },
+  {
+    "position": 185,
+    "field": "children_num",
+    "text": "How many children do you have? Please also include adopted and/or step-children"
+  },
+  {
+    "position": 186,
+    "field": "child_relationship",
+    "text": "What is your relationship to the child? (e.g., son, daughter, adopted, step-child, other)"
+  },
+  {
+    "position": 187,
+    "field": "child_family_name",
+    "text": "What is the child's family name?"
+  },
+  {
+    "position": 188,
+    "field": "child_given_names",
+    "text": "What are the child's given names?"
+  },
+  {
+    "position": 189,
+    "field": "child_dob_date",
+    "text": "What is the child's date of birth? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 190,
+    "field": "child_birth_country",
+    "text": "What is the country or territory of birth for the child?"
+  },
+  {
+    "position": 191,
+    "field": "child_present_address",
+    "text": "What is the child's present address? If deceased, provide city/town, country/territory, and date before deceased"
+  },
+  {
+    "position": 192,
+    "field": "child_marital_status",
+    "text": "What is the child's marital status?"
+  },
+  {
+    "position": 193,
+    "field": "child_email",
+    "text": "What is the child's email address?"
+  },
+  {
+    "position": 194,
+    "field": "has_children_2",
+    "text": "Do you have any other child other than the one already mentioned above? (yes/no) Please including adopted and/or step-children"
+  },
+  {
+    "position": 195,
+    "field": "child_relationship_2",
+    "text": "What is your relationship to the child? (e.g., son, daughter, adopted, step-child, other)"
+  },
+  {
+    "position": 196,
+    "field": "child_family_name_2",
+    "text": "What is the child's family name?"
+  },
+  {
+    "position": 197,
+    "field": "child_given_names_2",
+    "text": "What are the child's given names?"
+  },
+  {
+    "position": 198,
+    "field": "child_dob_2_date",
+    "text": "What is the child's date of birth? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 199,
+    "field": "child_birth_country_2",
+    "text": "What is the country or territory of birth for the child?"
+  },
+  {
+    "position": 200,
+    "field": "child_present_address_2",
+    "text": "What is the child's present address? If deceased, provide city/town, country/territory, and date before deceased"
+  },
+  {
+    "position": 201,
+    "field": "child_marital_status_2",
+    "text": "What is the child's marital status?"
+  },
+  {
+    "position": 202,
+    "field": "child_email_2",
+    "text": "What is the child's email address?"
+  },
+  {
+    "position": 203,
+    "field": "has_children_3",
+    "text": "Do you have any other child other than the one already mentioned above? (yes/no) Please including adopted and/or step-children"
+  },
+  {
+    "position": 204,
+    "field": "child_relationship_3",
+    "text": "What is your relationship to the child? (e.g., son, daughter, adopted, step-child, other)"
+  },
+  {
+    "position": 205,
+    "field": "child_family_name_3",
+    "text": "What is the child's family name?"
+  },
+  {
+    "position": 206,
+    "field": "child_given_names_3",
+    "text": "What are the child's given names?"
+  },
+  {
+    "position": 207,
+    "field": "child_dob_3_date",
+    "text": "What is the child's date of birth? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 208,
+    "field": "child_birth_country_3",
+    "text": "What is the country or territory of birth for the child?"
+  },
+  {
+    "position": 209,
+    "field": "child_present_address_3",
+    "text": "What is the child's present address? If deceased, provide city/town, country/territory, and date before deceased"
+  },
+  {
+    "position": 210,
+    "field": "child_marital_status_3",
+    "text": "What is the child's marital status?"
+  },
+  {
+    "position": 211,
+    "field": "child_email_3",
+    "text": "What is the child's email address?"
+  },
+  {
+    "position": 212,
+    "field": "has_siblings",
+    "text": "Do you have any brothers or sisters? (yes/no) Please including half- and step-siblings"
+  },
+  {
+    "position": 213,
+    "field": "sibling_num",
+    "text": "How many brothers or sisters do you have? Please including half- and step-siblings"
+  },
+  {
+    "position": 214,
+    "field": "sibling_relationship",
+    "text": "What is your relationship to the sibling? \n (e.g., sister, brother, half-sister, half-brother, step-sister, step-brother, other)"
+  },
+  {
+    "position": 215,
+    "field": "sibling_family_name",
+    "text": "What is the sibling's family name?"
+  },
+  {
+    "position": 216,
+    "field": "sibling_given_names",
+    "text": "What are the sibling's given names?"
+  },
+  {
+    "position": 217,
+    "field": "sibling_dob_date",
+    "text": "What is the sibling's date of birth? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 218,
+    "field": "sibling_birth_country",
+    "text": "What is the sibling's country or territory of birth?"
+  },
+  {
+    "position": 219,
+    "field": "sibling_present_address",
+    "text": "What is the sibling's present address? If deceased, provide city/town, country/territory, and date before deceased"
+  },
+  {
+    "position": 220,
+    "field": "sibling_marital_status",
+    "text": "What is the sibling's marital status?"
+  },
+  {
+    "position": 221,
+    "field": "sibling_email",
+    "text": "What is the sibling's email address?"
+  },
+  {
+    "position": 222,
+    "field": "has_siblings_2",
+    "text": "Do you have any other brothers or sisters apart from the one already mentioned? (yes/no) Please including half- and step-siblings"
+  },
+  {
+    "position": 223,
+    "field": "sibling_num_2",
+    "text": "How many brothers or sisters do you have? Please including half- and step-siblings"
+  },
+  {
+    "position": 224,
+    "field": "sibling_relationship_2",
+    "text": "What is your relationship to the sibling? \n (e.g., sister, brother, half-sister, half-brother, step-sister, step-brother, other)"
+  },
+  {
+    "position": 225,
+    "field": "sibling_family_name_2",
+    "text": "What is the sibling's family name?"
+  },
+  {
+    "position": 226,
+    "field": "sibling_given_names_2",
+    "text": "What are the sibling's given names?"
+  },
+  {
+    "position": 227,
+    "field": "sibling_dob_2_date",
+    "text": "What is the sibling's date of birth? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 228,
+    "field": "sibling_birth_country_2",
+    "text": "What is the sibling's country or territory of birth?"
+  },
+  {
+    "position": 229,
+    "field": "sibling_present_address_2",
+    "text": "What is the sibling's present address? If deceased, provide city/town, country/territory, and date before deceased"
+  },
+  {
+    "position": 230,
+    "field": "sibling_marital_status_2",
+    "text": "What is the sibling's marital status?"
+  },
+  {
+    "position": 231,
+    "field": "sibling_email_2",
+    "text": "What is the sibling's email address?"
+  },
+  {
+    "position": 232,
+    "field": "has_siblings_3",
+    "text": "Do you have any other brothers or sisters apart from the one already mentioned? (yes/no) Please including half- and step-siblings"
+  },
+  {
+    "position": 233,
+    "field": "sibling_relationship_3",
+    "text": "What is your relationship to the sibling? \n (e.g., sister, brother, half-sister, half-brother, step-sister, step-brother, other)"
+  },
+  {
+    "position": 234,
+    "field": "sibling_family_name_3",
+    "text": "What is the sibling's family name?"
+  },
+  {
+    "position": 235,
+    "field": "sibling_given_names_3",
+    "text": "What are the sibling's given names?"
+  },
+  {
+    "position": 236,
+    "field": "sibling_dob_3_date",
+    "text": "What is the sibling's date of birth? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 237,
+    "field": "sibling_birth_country_3",
+    "text": "What is the sibling's country or territory of birth?"
+  },
+  {
+    "position": 238,
+    "field": "sibling_present_address_3",
+    "text": "What is the sibling's present address? If deceased, provide city/town, country/territory, and date before deceased"
+  },
+  {
+    "position": 239,
+    "field": "sibling_marital_status_3",
+    "text": "What is the sibling's marital status?"
+  },
+  {
+    "position": 240,
+    "field": "sibling_email_3",
+    "text": "What is the sibling's email address?"
+  },
+  {
+    "position": 241,
+    "field": "minor_status",
+    "text": "Will you be a minor at the time of your arrival in Canada (Yes/No)?"
+  },
+  {
+    "position": 242,
+    "field": "custodian_family_name",
+    "text": "What is the custodian's family name or surname as shown on their passport or travel document?"
+  },
+  {
+    "position": 243,
+    "field": "custodian_given_names",
+    "text": "What are the custodian's given names as shown on their passport or travel document?"
+  },
+  {
+    "position": 244,
+    "field": "custodian_status",
+    "text": "What is the custodian's status in Canada? (Canadian citizen, Permanent resident, Other)"
+  },
+  {
+    "position": 245,
+    "field": "custodian_dob_date",
+    "text": "What is the custodian's date of birth? (Format: YYYY-MM-DD)"
+  },
+  {
+    "position": 246,
+    "field": "custodian_address",
+    "text": "What is the custodian's current residential address? Please give the full address"
+  },
+  {
+    "position": 247,
+    "field": "custodian_full_phone_number",
+    "text": "What is the custodian's telephone number?"
+  },
+  {
+    "position": 248,
+    "field": "first_time_travel_outside_china",
+    "text": "Is this your first time travelling outside of China? (yes/no)"
+  },
+  {
+    "position": 249,
+    "field": "travel_start_date",
+    "text": "What is the start date (MM-YYYY) of your travel period?"
+  },
+  {
+    "position": 250,
+    "field": "travel_end_date",
+    "text": "What is the end date (MM-YYYY) of your travel period?"
+  },
+  {
+    "position": 251,
+    "field": "travel_purpose",
+    "text": "What was the purpose of your travel during this period?"
+  },
+  {
+    "position": 252,
+    "field": "travel_destination",
+    "text": "Which city, country, or territory did you travel to?"
+  }
+]
